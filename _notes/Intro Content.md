@@ -1,6 +1,8 @@
 
 ```
 --- title: Intro Content ---
+include:             ['_pages']
+exclude:             ['_includes/notes_graph.json']
 ```
 
 
