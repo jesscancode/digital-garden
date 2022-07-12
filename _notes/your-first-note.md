@@ -7,6 +7,73 @@ title: Your first seed
 ### THIS IS A TEST
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
 
+**Hey there you heartfelt ham nuzzlers!** 🍖
+
+You've measured every nook and cranny of your body, you've taken progress tracking photos of your sweet ass, you've established a good caloric baseline for your goals and you've been tracking your calories...mostly. Now we are getting to the point where you've had a little time to adjust to this wellness journey, to scope it out, to experiment with a few things and to start thinking of what you really want. Now is the time to set some goals and concretize why you are doing all of this. #creatingvision #findingyourwhy #pithymotivationalhashtag
+
+![https://media.giphy.com/media/c5eqVJN7oNLTq/giphy.gif](https://media.giphy.com/media/c5eqVJN7oNLTq/giphy.gif)
+
+We are not going to be lame and set goals merely for this 10 week journey together. That is essential but we need to aim further, reach higher and dream bigger! #rockybalboa #eyeofthetiger
+
+![https://media.giphy.com/media/PlU9yrwbkOjRDW7Va1/giphy.gif](https://media.giphy.com/media/PlU9yrwbkOjRDW7Va1/giphy.gif)
+
+Before setting any goals...we all know that goals are nothing without accountability. When last did you decide to change a habit and find out you changed your behavior for 3 days and then reverted back to the previous habit. This is the powerful science of habit #charlesduhigg and the mechanisms in your brain and body are stacked against you in the beginning. #dontbeatyourselfup #beatyourhabitsup #bisheslietothemselves #satanisreal 
+
+> **BUT and it's a BIG BUTT! We can hack this system. We can set ourselves up for success and it starts with helping each other with accountability. #sistersofFFFF**
+> 
+
+Different styles of accountability work for different people and we'll work with that. If we are all comfortable to share our goals with each other in the Whatsapp group too - that's cool but not a requirement. 
+
+> **What is required is a personal submission to me: this next phase will require everyone to submit their goals to me for review, encouragement and accountability. More on this personal submission later #winningatlife**
+> 
+
+## SOME PARAMETERS FOR US AS A GOAL-SMASHING TEAM 🧘🏾‍♀️
+
+**Initial Time Frame: 3 Months**
+
+**Medium Term Goal Crushing End Date: 1st February 2021**
+
+So as living and breathing humans...we know that Christmas is one of the highlights of our calendar as we celebrate with expectation the coming of our Lord Jesus. Sadly it's also a field of landmines waiting to explode our wellness goals. I blame Woolworths, capitalism and gluttony. So in light of this...our medium-term date for goal setting is going to be **1 February 2021**. #youaremyguineapigs #yourestuckwithme #wewillovercome
+
+The reason this date has been chosen is not to cramp your Christmas binge eating style but to insure that we keep each other accountable into the start of 2021. It is also to stop the Christmas cramming from eking it's way into the start of next year. #ourgoalsarebiggerthanChristmasham #weareallhamnuzzlers
+
+![https://media.giphy.com/media/1028s2fp1NcXYY/giphy.gif](https://media.giphy.com/media/1028s2fp1NcXYY/giphy.gif)
+
+![https://media.giphy.com/media/1oFqxMYv5JQvuFtX8o/giphy.gif](https://media.giphy.com/media/1oFqxMYv5JQvuFtX8o/giphy.gif)
+
+![https://media.giphy.com/media/Rxiqbe1OlYHkc/giphy.gif](https://media.giphy.com/media/Rxiqbe1OlYHkc/giphy.gif)
+
+## SURGICAL SURGEONS SURGEONING OUR GOAL SETTING
+
+This week we're getting surgical with setting goals and a little bit on the fluffy side with designing our own vision boards. #digitalartsandcrafts ✂️ #collage 🖼️ #saywhat! 🗣️ More on vision boards later. 
+
+### BUT FIRST...GOAL DUMP
+
+Yes yes, we all know this SMART goal setting system from high school Life Orientation. It is BASIC. But it works.
+
+- Specific
+- Measurable
+- Attainable
+- Realistic
+- Timely or time-limited
+
+![https://media.giphy.com/media/GSDP6bmdiZhxC/giphy.gif](https://media.giphy.com/media/GSDP6bmdiZhxC/giphy.gif)
+
+We will use this S.M.A.R.T framework but we need to mind dump all our goals first to cut through the non-essential and to select what is going to give us the most bang for our buck. Essentially we are searching for goals that we can turn into our core keystone habits. We will then build these goals into our lives to get us all the way to February 2021!
+
+[Worksheet 4️⃣ Goal Dumping💩](https://www.notion.so/Worksheet-4-Goal-Dumping-9f66a81e6dfb48e0991cd6cc54f716ab)
+
+
+
+
+
+
+
+
+
+
+
+
 ### Link syntax
 
 To link to another note, you can use multiple syntaxes. The following four use the "double-bracket" notation ([view the Markdown source file](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_notes/your-first-note.md#link-syntax) to see the underlying syntax).
