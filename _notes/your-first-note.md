@@ -2,10 +2,15 @@
 title: Your first seed
 ---
 
+[[Intro Content]]
+
+
 ### Welcome!
 ## THIS IS A TEST
 ### THIS IS A TEST
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
+
+
 
 **Hey there you heartfelt ham nuzzlers!** 🍖
 
