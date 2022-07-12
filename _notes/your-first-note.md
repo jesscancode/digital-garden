@@ -3,7 +3,8 @@ title: Your first seed
 ---
 
 ### Welcome!
-
+## THIS IS A TEST
+### THIS IS A TEST
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
 
 ### Link syntax
