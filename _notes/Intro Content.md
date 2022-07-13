@@ -7,7 +7,7 @@ exclude:             ['_includes/notes_graph.json']
 ```
 
 
-## WEEK 1: UNDERLYING PHILOSOPHY 🧠
+# WEEK 1: UNDERLYING PHILOSOPHY 🧠
 
 Behaviour change starts with right-thinking. Here are a few thoughts on the approach for the next nine weeks. We want to get our mindset right so that we can confidently and happily change for the better and for good 💪🏼
 
