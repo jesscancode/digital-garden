@@ -1,7 +1,7 @@
 ---
 title: Your first seed
 ---
-
+[[Javascript]]
 [[Intro Content]]
 
 THIS IS A TEST AT WORK
