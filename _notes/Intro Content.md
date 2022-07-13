@@ -1,4 +1,5 @@
-
+include:             ['_pages']
+exclude:             ['_includes/notes_graph.json']
 ```
 --- title: Intro Content ---
 include:             ['_pages']
@@ -97,3 +98,5 @@ If you want to do something and justify your actions, you can always find "resea
 -   and more random shit.
 
 Are you ready to join us!? Get ready to be awesome! Look out for your **WEEK 1's WORKSHEET** coming straight to your inbox! 💌
+
+[[Week 1]]
